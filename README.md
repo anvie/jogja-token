@@ -1,6 +1,6 @@
 # JOGJA Token
 
-ERC-20 token designed for future art and entertainment project in Yogyakarat.
+ERC-20 token designed for future art and entertainment project in Yogyakarta.
 
 ## License
 
