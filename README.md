@@ -1,6 +1,6 @@
 # JOGJA Token
 
-ERC-20 token for JOGJA, this token is designed for art and entertainment project.
+Token designed for future art and entertainment project in Yogyakarat.
 
 ## License
 
